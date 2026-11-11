@@ -1,5 +1,7 @@
-download-dest/
+manual-dest/
   drush/
     commands/
+      cache.php
     drush.php
-  (no home/, no www/)
+(no home/, no www/)
+report: { files: 2, skipped: 0, errors: [] }
