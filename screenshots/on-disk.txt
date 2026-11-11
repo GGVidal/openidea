@@ -1,0 +1,5 @@
+download-dest/
+  drush/
+    commands/
+    drush.php
+  (no home/, no www/)
