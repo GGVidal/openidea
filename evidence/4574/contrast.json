@@ -1,0 +1,24 @@
+{
+  "commitFocused": {
+    "actionTargets": [
+      "/Users/gabrielvidalgondim/orca/workspaces/openidea/OpenIdea/fixtures/java-app/pom.xml",
+      "/Users/gabrielvidalgondim/orca/workspaces/openidea/OpenIdea/fixtures/java-app/src/main/java/com/example/App.java"
+    ],
+    "activeToolWindow": "commit",
+    "changesView": [
+      "/Users/gabrielvidalgondim/orca/workspaces/openidea/OpenIdea/fixtures/java-app/pom.xml",
+      "/Users/gabrielvidalgondim/orca/workspaces/openidea/OpenIdea/fixtures/java-app/src/main/java/com/example/App.java"
+    ],
+    "commitWindowFocused": true
+  },
+  "projectFocused": {
+    "actionTargets": [],
+    "activeToolWindow": "project",
+    "changesView": [],
+    "commitWindowFocused": false
+  },
+  "selection": [
+    "/Users/gabrielvidalgondim/orca/workspaces/openidea/OpenIdea/fixtures/java-app/pom.xml",
+    "/Users/gabrielvidalgondim/orca/workspaces/openidea/OpenIdea/fixtures/java-app/src/main/java/com/example/App.java"
+  ]
+}
